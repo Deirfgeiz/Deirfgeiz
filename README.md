@@ -1,4 +1,4 @@
-Hi, I'm Dave 👋
+## Hi, I'm Dave 👋
 
 Repeat founder and CEO. I never wrote code until spring 2026. Now I ship production software daily.
 
