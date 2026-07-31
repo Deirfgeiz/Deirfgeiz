@@ -6,9 +6,9 @@ For 20+ years I built software companies alongside engineers I admired, music li
 
 <B>Now </B>
 
-Official AI: rights infrastructure for content featuring real people: identity, consent, and licensing, so people and rights holders control how their name, image, voice, and work are used.
+[Official](https://www.theofficial.ai): rights infrastructure for content featuring real people: identity, consent, and licensing, so people and rights holders control how their name, image, voice, and work are used.
 
-[TidePilot](https://www.tidepilot): marine weather intelligence for Pacific Northwest boaters. Something I built for myself that has quickly grown an initial user base of a few hundred other boaters. (Know before you go!)
+[TidePilot](https://www.tidepilot.ai): marine weather intelligence for Pacific Northwest boaters. Something I built for myself that has quickly grown an initial user base of a few hundred other boaters. (Know before you go!)
 
 A few smaller personal projects in stealth
 
