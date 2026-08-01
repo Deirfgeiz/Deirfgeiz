@@ -12,8 +12,6 @@ For 20+ years I've built software companies alongside engineers I admired, music
 
 A few smaller personal projects in stealth
 
-A multi-agent harness that runs code review, trend research, and content drafting across everything I build
-
 ## Open source
 
 **[officialai-takedown-skill](https://github.com/Deirfgeiz/officialai-takedown-skill)** — MCP server + Claude Agent Skill for running rights takedowns agentically
