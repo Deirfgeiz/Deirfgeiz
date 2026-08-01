@@ -2,7 +2,7 @@
 
 Repeat founder, CEO, and as of spring 2026 shipping production software daily.
 
-For 20+ years I've built software companies alongside engineers I admired, music licensing ([Audiosocket](https://audiosocket.com)), provenance (LIDCORE). commercial real estate (LOANtuitive), AI rights infrastructure (Official AI), while my own code contributions topped out at some VBScript in Excel and light HTML. That changed when we Claude Code got good enough that a product builder like myself could become meaningfully technical. My first commit: April 8, 2026. Everything on this profile has happened since.
+For 20+ years I've built software companies alongside engineers I admired, music licensing ([Audiosocket](https://audiosocket.com)), patented provenance (LIDCORE). commercial real estate (LOANtuitive), AI rights infrastructure (Official AI), while my own code contributions topped out at some VBScript in Excel and light HTML. That changed when we Claude Code got good enough that a product builder like myself could become meaningfully technical. My first commit: April 8, 2026. Everything on this profile has happened since.
 
 ## Now
 
