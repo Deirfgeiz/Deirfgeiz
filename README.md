@@ -1,4 +1,4 @@
-## Hi, I'm Dave 👋
+## Hi, I'm Dave 👋🏻
 
 Repeat founder, CEO, and as of spring 2026, shipping production software daily.
 
