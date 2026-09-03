@@ -1,7 +1,5 @@
 ## Hi, I'm Dave 👋🏻
 
-Repeat founder, CEO, and as of spring 2026, shipping production software daily.
-
 I've built software companies for 20+ years, music licensing ([Audiosocket](https://audiosocket.com)), IP provenance (LIDCORE), commercial real estate ([LOANtuitive](https://www.loantuitive.com)), AI rights infrastructure ([Official AI](https://www.theofficial.ai)). My own code contributions were limited until Claude Code got good enough that product builders like myself could become meaningfully technical. My first commit: April 8, 2026. Everything on this profile has happened since.
 
 ## Now
