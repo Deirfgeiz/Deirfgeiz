@@ -10,6 +10,8 @@ I've built software companies for 20+ years, music licensing ([Audiosocket](http
 
 [TidePilot](https://www.tidepilot.ai): marine weather intelligence for Pacific Northwest boaters. Something I built for myself that has quickly grown an initial user base of a few hundred other boaters. (Know before you go!)
 
+[You Have Amnesia](https://www.youhaveamnesia.com): a parody site. All memories fabricated. All diagnoses fictional. All disappointment real. 
+
 A few smaller personal projects in stealth
 
 ## Open source
