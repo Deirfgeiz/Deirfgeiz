@@ -12,6 +12,8 @@ I've built software companies for 20+ years, music licensing ([Audiosocket](http
 
 [You Have Amnesia](https://www.youhaveamnesia.com): a parody site. All memories fabricated. All diagnoses fictional. All disappointment real. 
 
+[Zagnetism](https://www.zagnetism.com): a fan site. 
+
 A few smaller personal projects in stealth
 
 ## Open source
