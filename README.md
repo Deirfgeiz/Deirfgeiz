@@ -18,7 +18,7 @@ A few smaller personal projects in stealth
 
 ## Open source
 
-**[Programscape-mcp](https://github.com/Deirfgeiz/programscape-mcp)** - Ask your AI assistant which startup credits, programs and perks fit your company. Hosted MCP server: https://programscape.com/api/mcp
+**[Programscape-mcp](https://github.com/Deirfgeiz/programscape-mcp)** - Ask your AI assistant which startup credits, programs and perks fit your company. Hosted MCP server.
 
 **[officialai-takedown-skill](https://github.com/Deirfgeiz/officialai-takedown-skill)** — MCP server + Claude Agent Skill for running rights takedowns agentically
 
