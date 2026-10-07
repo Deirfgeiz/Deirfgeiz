@@ -6,7 +6,7 @@ I've built software companies for 20+ years, music licensing ([Audiosocket](http
 
 [Official AI](https://www.theofficial.ai): rights infrastructure for content featuring real people: identity, consent, and licensing, so people and rights holders control how their name, image, voice, and work are used.
 
-[Graphline](https://www.graphline.ai): an actionable and auditable CRE loan intelligence layer. 
+[Graphline](https://www.graphline.ai): an actionable and auditable CRE intelligence layer. 
 
 [TidePilot](https://www.tidepilot.ai): marine weather intelligence for Pacific Northwest boaters. Something I built for myself that has quickly grown an initial user base of a few hundred other boaters. (Know before you go!)
 
